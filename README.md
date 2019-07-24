@@ -5,6 +5,6 @@ AppToStoreStudentsData.py:
           handling. GUI was created using tkinter library in python.
           
           
-TextEvaluationApp.py
+TextEvaluationApp.py:
           This is a Text matching python application using Jaccard Similarity Algorithm. Sample text file is compared with correct
           text files. Similarity percentage is generated. GUI is created using tkinter library in python.
